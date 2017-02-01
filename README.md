@@ -1,7 +1,7 @@
 # nvim-setup-for-clojure
 Some basic recommendations about how to setup Neovim or Vim to run nicely with Clojure, mostly with better syntax highlighting.
 
-![example](https://github.com/WildUtah/nvim-setup-for-clojure/example.png)
+![example](https://github.com/WildUtah/nvim-setup-for-clojure/raw/master/example.png)
 
 This is an add-on to the latest (2013) standard vim-clojure highlighting that comes with vim-polyglot or with some recent versions of the base install of Neovim and Vim.
 
