@@ -3,5 +3,5 @@
 "Remember that W will get you to the next whitespace
 set iskeyword-=.
 set iskeyword-=/
-set iskeyword+={,},(,),[,]
+set iskeyword+={,},(,),[,],\
 
