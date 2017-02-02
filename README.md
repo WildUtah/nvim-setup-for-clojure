@@ -20,7 +20,7 @@ With [pathogen.vim](https://github.com/tpope/vim-pathogen),
     cd ~/.vim/bundle
     git clone git://github.com/WildUtah/nvim-setup-for-clojure
 
-Or with Dein, add 
+Or with [Dein](https://github.com/Shougo/dein.vim), add 
 
     call dein#add('WildUtah/nvim-setup-for-clojure')
 
